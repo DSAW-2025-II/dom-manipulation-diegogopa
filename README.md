@@ -1,4 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jChayUyc)
+## Marcado
+Nombre: Diego Alejandro Gómez Papagayo
+ID-Universitario: 0000336260
+Correo: diegogopa@unisabana.edu.co
+
 # Lista de Tareas
 
 Esta tarea consiste en crear una aplicación de lista de tareas utilizando HTML, CSS y JavaScript. La aplicación debe ser capaz de crear, eliminar y marcar tareas como completadas. Además, se espera que el diseño sea responsive y se adapte correctamente a las medidas de dispositivos móviles, tablets y desktops.
@@ -29,4 +34,5 @@ El diseño de la aplicación debe ser responsive y adaptarse correctamente a dif
 | HTML Semántico     | 0.5     |
 | Funcionalidad      | 3       |
 
-
+## Archivo Desplegado
+https://dsaw-2025-ii.github.io/dom-manipulation-diegogopa/
